@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I created this Repository to learn about Cloud Engineering.
+Hopefully, I will be able to become competent at this.
 <!--
 **EmmanuelOkebule/EmmanuelOkebule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
